@@ -20,7 +20,7 @@ To get started with the AI Image Generation Project, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-image-generation-project.git
+git clone https://github.com/vishnuthumpudi/AI-Backend-Project.git
 ```
 
 ### Install Dependencies
