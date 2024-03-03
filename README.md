@@ -28,7 +28,7 @@ git clone https://github.com/vishnuthumpudi/AI-Backend-Project.git
 Navigate to the project directory and install the required dependencies using npm:
 
 ```bash
-cd ai-image-generation-project
+cd AI-Backend-Project
 npm install
 ```
 
